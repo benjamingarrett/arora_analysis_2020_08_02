@@ -1,0 +1,1 @@
+python3 arora_conjecture_2020_08_02.py tsplib_no_preemptive_halt
