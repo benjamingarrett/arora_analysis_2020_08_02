@@ -24,7 +24,7 @@ def get_sort_by(fn):
     if lst[j][0] == 'SORT_BY':
       return int(lst[j][1])
     j += 1
-  print('SORT_BY field not found in {}/{}'.format(fn))
+  print('SORT_BY field not found in {}'.format(fn))
   exit()
 
 
